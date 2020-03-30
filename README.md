@@ -1,5 +1,5 @@
 # local-mask-trees
-A template for a website for a local masks campaign
+A template for a website for a local masks campaign, built in TypeScript and React.
 
 It will create a layperson-configurable template to implement:
 
